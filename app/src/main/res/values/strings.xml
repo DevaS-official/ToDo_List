@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="tasks">Tasks</string>
+    <string name="floatbtn">FloatBtn</string>
+    <string name="new_task">New Task</string>
+    <string name="save">Save</string>
+    <string name="splashimage">SplashImage</string>
+    <string name="sample">This is sample text to design the card view</string>
+    <string name="newTask">Enter New Task</string>
+    <string name="add">Add</string>
+</resources>
